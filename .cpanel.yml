@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/amarsite/salary.amarsite.top/Old_Version-1.01
-    - /bin/cp -R * $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH ad
